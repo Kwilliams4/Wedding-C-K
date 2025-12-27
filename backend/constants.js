@@ -1,0 +1,4 @@
+export const DB_HOST = "localhost";
+export const DB_USER = "root";
+export const DB_PASSWORD = "Password1!";
+export const DB_NAME = "wedding_k&c";
